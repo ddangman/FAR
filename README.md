@@ -27,4 +27,4 @@ internet in the brazil is really, but really a bullshit
 
 
 ### FAR Credits
-Francesco149, Idk31, Smithfield, Kaidean and GitHub contributors.
+Francesco149, Idk31, Smithfield, Kaldaien and GitHub contributors.
