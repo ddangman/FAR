@@ -43,5 +43,24 @@ Okay, and how to fix it?
 
 ```
 
+- I Don´t trust in you, but i need the mod.
+```
+No problem, You can manually patch. Using the x64dbg or IDA PRO, search by the function SK_Steam_PiratesAhoy
+Print: https://u.nya.is/yzniyw.png (if you don´t found, try run the debugger and pause before close)
+Right Click -> Follow in the disassembler: https://u.nya.is/rmilgm.png
+The Patched version, looks like this: https://u.nya.is/oedypx.png
+to patch is simple, Check Fill With Nop´s and Write:
+MOV EAX, 0 (https://u.nya.is/wetkvn.png) (0 = Allways Original, 1 = Allways Pirate)
+Press Enter or OK, and write:
+Ret (https://u.nya.is/qmhpfj.png)
+Press Enter again and Cancel now.
+Click in "View" => Patch File (https://u.nya.is/staaek.png)
+Click in Patch File, and save it.
+(you can play now, but have more one optional step)
+Open the patched Dll with a Hex editor, i have 010Editor.
+Find the unicode string, "/master/" and corrupt this part to prevent the FAR Auto-Update. (https://u.nya.is/beplaa.png)
+Save and Put into the nier directory, now just use!
+```
+
 ### FAR Credits
 Francesco149, Idk31, Smithfield, Kaldaien and GitHub contributors.
