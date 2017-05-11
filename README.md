@@ -38,6 +38,7 @@ Okay, and how to fix it?
 - MSI Nahimic and Razer (Insert Any Product Name Here) are known to interfere with Special K (dxgi.dll), you may need to disable that software to use the mod (official kaidlen note)
 - Nothing Works?! Try the lastest version from the crack, my tests use the first version (SSE) and the second release + ali213 emulator.
 - Nothing Again? You have any program that try hook/inject into the game? like the discord overlay? try disable anything like this.
+- try set UseCrashHandler=false in the dxgi.ini; i don´t think this can solve, but you can see the e Windows Stop Working message and read info about the problem.
 - Nothing... So... I can lend my shoulders to you to cry if you need.
 
 ```
