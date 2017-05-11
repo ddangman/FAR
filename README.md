@@ -46,7 +46,7 @@ Okay, and how to fix it?
 - I Don´t trust in you, but i need the mod.
 ```
 No problem, You can manually patch. Using the x64dbg or IDA PRO, search by the function SK_Steam_PiratesAhoy
-Print: https://u.nya.is/yzniyw.png (if you don´t found, try run the debugger and pause before close)
+Print: https://u.nya.is/okncrm.png (if you don´t found, try run the debugger and pause before close)
 Right Click -> Follow in the disassembler: https://u.nya.is/rmilgm.png
 The Patched version, looks like this: https://u.nya.is/oedypx.png
 to patch is simple, Check Fill With Nop´s and Write:
