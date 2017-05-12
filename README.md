@@ -50,7 +50,7 @@ No problem, You can manually patch. Using the x64dbg or IDA PRO, search by the f
 Print: https://u.nya.is/okncrm.png (if you don´t found, try run the debugger and pause before close)
 Right Click -> Follow in the disassembler: https://u.nya.is/rmilgm.png
 The Patched version, looks like this: https://u.nya.is/oedypx.png
-to patch is simple, Check Fill With Nop´s and Write:
+to patch is simple, press space and in the window, Check "Fill With Nop´s" and Write:
 MOV EAX, 0 (https://u.nya.is/wetkvn.png) (0 = Allways Original, 1 = Allways Pirate)
 Press Enter or OK, and write:
 Ret (https://u.nya.is/qmhpfj.png)
