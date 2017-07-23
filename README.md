@@ -19,6 +19,7 @@ Maybe, but for now, not necessary.
 This isn´t a crash caused by the detection of the crack in the nier, Otherwise, this would have occurred to me.
 
 Okay, and how to fix it?
+- If are you using the CPY crack, isn't compatible, use the baldman v3.
 - Download again the crack to have sure you have the lastest version of the baldman crack.
 - if you think this alert sound it´s because the detected crack, isn´t this, you can try a outated version from the FAR.
 - MSI Nahimic and Razer (Insert Any Product Name Here) are known to interfere with Special K (dxgi.dll), you may need to disable that software to use the mod
@@ -26,7 +27,6 @@ Okay, and how to fix it?
 - Nothing Again? You have any program that try hook/inject into the game? like the discord overlay? try disable anything like this.
 - try set at [Steam.Log] the Silent=true
 - Nothing... So... I can lend my shoulders to you cry if you need.
-
 ```
 
 - I Don´t trust in you, but i need the mod.
